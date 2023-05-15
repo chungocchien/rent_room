@@ -794,9 +794,6 @@ mutation DeleteRoom($deleteRoomId: ID!) {
 }
 ```
 
-# Report
-- Link: [report](https://docs.google.com/document/d/12CulRqyRkyUyxH4miCjrD89NyYfUqAgRoK-ev88MVh0/edit?usp=sharing)
-
 # Getting help with this graph
 
 For support working with this graph, contact the Graph Admin via [gmail](mailto:hieucaohd@gmail.com) or [messenger](https://www.messenger.com/t/100057157604437/).
